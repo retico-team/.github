@@ -64,7 +64,7 @@ The SLIM Lab maintains many of the module repositories in `retico-team`.
 
 **Research that uses Retico**
 
-```
+
 Henry, C., & Kennington, C. (2024). [Unsupervised, Bottom-up Category Discovery for Symbol Grounding with a Curious Robot](https://aclanthology.org/2022.sigdial-1.14/). arXiv preprint arXiv:2404.03092.
 
 Whetten, R., Levandovsky, E., Imtiaz, M. T., & Kennington, C. (2023, August). [Evaluating Automatic Speech Recognition and Natural Language Understanding in an Incremental Setting](https://www.semdial.org/anthology/papers/Z/Z23/Z23-3012/). In Proceedings of the 27th Workshop on the Semantics and Pragmatics of Dialogue (SemDial). Maribor, Slovenia.
@@ -74,16 +74,14 @@ Josue Torres-Fonseca, Catherine Henry, and Casey Kennington. 2022. [Symbol and C
 Imtiaz, M.T., Kennington, C. (2022). [Incremental Unit Networks for Distributed, Symbolic Multimodal Processing and Representation](https://doi.org/10.1007/978-3-031-06018-2_24). In: Duffy, V.G. (eds) Digital Human Modeling and Applications in Health, Safety, Ergonomics and Risk Management. Health, Operations Management, and Design. HCII 2022. Lecture Notes in Computer Science, vol 13320. Springer, Cham.
 
 Casey Kennington, Daniele Moro, Lucas Marchand, Jake Carns, and David McNeill. 2020. [rrSDS: Towards a Robot-ready Spoken Dialogue System](https://aclanthology.org/2020.sigdial-1.17/). In Proceedings of the 21th Annual Meeting of the Special Interest Group on Discourse and Dialogue, pages 132–135, 1st virtual meeting. Association for Computational Linguistics.
-```
-
 
 
 
 ### Articulab at Carnegie Mellon University & Almanach Team at Inria Paris
 
-```
+
 Simple Retico Agent [github repo](https://github.com/articulab/simple-retico-agent) [documentation](https://simple-conversational-retico-agent.readthedocs.io/en/latest/index.html)
-```
+
 
 ## Citation
 
