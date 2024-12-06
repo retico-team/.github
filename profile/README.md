@@ -1,10 +1,10 @@
-# retico
+# Retico
 
 Retico is an open-source framework for building state-of-the-art incremental processing systems. This python package contains the functionality of the major supported retico modules and makes them easily accessible. 
 
 "Incremental" means that the system processes inputs (e.g., speech recognition) at a fine-grained level, typically word-by-word. Large language models like ChatGPT allow a user to type a full input before submitting it to the chatbot, but when humans speak or write to each other, they produce and comprehend language incrementally, word-by-word. Not all practical systems need to function incrementally, but some would benefit from word-level processing. For example, a recent [NSF-sponsored workshop report](https://www.sciencedirect.com/science/article/pii/S0885230821000620?via%3Dihub) on spoken interaction with robots recommends that systems and modules should work in real-time to enable them to be more natural and responsive. 
 
-Retico is based on the [Incremental Unit](https://journals.uic.edu/ojs/index.php/dad/article/view/10712) model of incremental dialogue processing. A typical system is made up of processing modules. For example, a system could be made up of give modules: a speech recognizer, language understander, dialogue manager, natural language generator, and speech synthesizer. An "Incremental Unit" (IU) is a piece of information that passes between them. For example, a speech recognizer recognizes individual words packaged as an IU and outputs them to the language understander which takes in the speech recognition IU and interprets the intent of the user, then sends an IU that contains information about the intent to the dialogue manager, and so on.
+Retico is based on the [Incremental Unit](https://journals.uic.edu/ojs/index.php/dad/article/view/10712) model of incremental dialogue processing. A typical Retico system is made up of processing modules. For example, a system could be made up of give modules: a speech recognizer, language understander, dialogue manager, natural language generator, and speech synthesizer. An "Incremental Unit" (IU) is a piece of information that passes between them. For example, a speech recognizer recognizes individual words packaged as an IU and outputs them to the language understander which takes in the speech recognition IU and interprets the intent of the user, then sends an IU that contains information about the intent to the dialogue manager, and so on.
 
 Other incremental processing frameworks exist like [InproTK](https://github.com/timobaumann/inprotk) which is written in Java. 
 
@@ -58,7 +58,7 @@ There are three options for loggers:
 
 ## Research with Retico
 
-The Quality and Usability Lab at Technische Universität Berlin
+### The Quality and Usability Lab at Technische Universität Berlin
 
 **Research that uses Retico**
 
@@ -76,7 +76,6 @@ The SLIM Lab maintains many of the module repositories in `retico-team`.
 
 **Research that uses Retico**
 
-
 Henry, C., & Kennington, C. (2024). [Unsupervised, Bottom-up Category Discovery for Symbol Grounding with a Curious Robot](https://aclanthology.org/2022.sigdial-1.14/). arXiv preprint arXiv:2404.03092.
 
 Whetten, R., Levandovsky, E., Imtiaz, M. T., & Kennington, C. (2023, August). [Evaluating Automatic Speech Recognition and Natural Language Understanding in an Incremental Setting](https://www.semdial.org/anthology/papers/Z/Z23/Z23-3012/). In Proceedings of the 27th Workshop on the Semantics and Pragmatics of Dialogue (SemDial). Maribor, Slovenia.
@@ -92,7 +91,7 @@ Casey Kennington, Daniele Moro, Lucas Marchand, Jake Carns, and David McNeill. 2
 ### Articulab at Carnegie Mellon University & Almanach Team at Inria Paris
 
 
-Simple Retico Agent [github repo](https://github.com/articulab/simple-retico-agent) [documentation](https://simple-conversational-retico-agent.readthedocs.io/en/latest/index.html)
+Simple Retico Agent [github repo](https://github.com/articulab/simple-retico-agent) | [documentation](https://simple-conversational-retico-agent.readthedocs.io/en/latest/index.html)
 
 
 ## Citation
