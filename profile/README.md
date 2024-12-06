@@ -58,6 +58,18 @@ There are three options for loggers:
 
 ## Research with Retico
 
+The Quality and Usability Lab at Technische Universität Berlin
+
+**Research that uses Retico**
+
+Michael, T. (2023). [Simulating Conversations for the Prediction of Speech Quality](https://depositonce.tu-berlin.de/items/bd35be30-6add-4712-b763-d31b44f84284). Springer International Publishing AG.
+
+Thilo Michael. 2020. Retico: [An incremental framework for spoken dialogue systems](https://aclanthology.org/2020.sigdial-1.6/). In Proceedings of the 21th Annual Meeting of the Special Interest Group on Discourse and Dialogue, pages 49–52, 1st virtual meeting. Association for Computational Linguistics.
+
+Thilo Michael and Sebastian Möller. 2020. [Simulating Turn-Taking in Conversations with Delayed Transmission](https://aclanthology.org/2020.sigdial-1.20/). In Proceedings of the 21th Annual Meeting of the Special Interest Group on Discourse and Dialogue, pages 157–161, 1st virtual meeting. Association for Computational Linguistics.
+
+
+
 ### Speech, Language and Interactive Machines Lab at Boise State University
 
 The SLIM Lab maintains many of the module repositories in `retico-team`.
