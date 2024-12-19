@@ -15,9 +15,9 @@ Some of the modules are available on pypi. Minimally, you need the `retico_core`
 
 ## Example Projects
 
-- Simple Retico Agent [github repo](https://github.com/articulab/simple-retico-agent) | [documentation](https://simple-conversational-retico-agent.readthedocs.io/en/latest/index.html)
-- Game of NIM with Misty II Robot with RL [github repo](https://github.com/bjBSU/nim)
-- Robot "Tutor" with Misty II Robot [github repo](https://github.com/amanaser/Misty-Tutor)
+- Simple Retico Agent [github](https://github.com/articulab/simple-retico-agent) | [documentation](https://simple-conversational-retico-agent.readthedocs.io/en/latest/index.html)
+- Game of NIM with Misty II Robot with RL [github](https://github.com/bjBSU/nim)
+- Robot "Tutor" with Misty II Robot [github](https://github.com/amanaser/Misty-Tutor)
 - Compare two Object Recgonition Models [github](https://github.com/porterrigby/HRI-Final-Project)
 
 
@@ -116,5 +116,6 @@ Simple Retico Agent [github repo](https://github.com/articulab/simple-retico-age
     doi = "10.18653/v1/2020.sigdial-1.6",
     pages = "49--52"
 }
+
 ```
 
