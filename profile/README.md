@@ -13,8 +13,15 @@ Other incremental processing frameworks exist like [InproTK](https://github.com/
 
 Some of the modules are available on pypi. Minimally, you need the `retico_core` ([documentation](https://retico-core.readthedocs.io/en/latest/). Individual modules have more information about their respective installation requirements. 
 
+## Example Projects
 
-## Example
+- Simple Retico Agent [github repo](https://github.com/articulab/simple-retico-agent) | [documentation](https://simple-conversational-retico-agent.readthedocs.io/en/latest/index.html)
+- Game of NIM with Misty II Robot with RL [github repo](https://github.com/bjBSU/nim)
+- Robot "Tutor" with Misty II Robot [github repo](https://github.com/amanaser/Misty-Tutor)
+- Compare two Object Recgonition Models [github](https://github.com/porterrigby/HRI-Final-Project)
+
+
+## Example Runner Script
 
 ```python
 from retico import *
