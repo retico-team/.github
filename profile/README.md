@@ -11,7 +11,7 @@ Other incremental processing frameworks exist like [InproTK](https://github.com/
 
 ## Installation
 
-Some of the modules are available on pypi. Minimally, you need the `retico_core` ([documentation](https://retico-core.readthedocs.io/en/latest/). Individual modules have more information about their respective installation requirements. 
+Some of the modules are available on pypi. Minimally, you need the `retico_core` ([documentation](https://retico-core.readthedocs.io/en/latest/)). Individual modules have more information about their respective installation requirements. 
 
 ## Example Projects
 
@@ -116,6 +116,34 @@ Simple Retico Agent [github repo](https://github.com/articulab/simple-retico-age
     doi = "10.18653/v1/2020.sigdial-1.6",
     pages = "49--52"
 }
-
+```
+If you use any of the multiomdal modules (vision, robots, etc.) please also cite this paper:
+```
+@inproceedings{kennington-etal-2020-rrsds,
+    title = "rr{SDS}: Towards a Robot-ready Spoken Dialogue System",
+    author = "Kennington, Casey  and
+      Moro, Daniele  and
+      Marchand, Lucas  and
+      Carns, Jake  and
+      McNeill, David",
+    editor = "Pietquin, Olivier  and
+      Muresan, Smaranda  and
+      Chen, Vivian  and
+      Kennington, Casey  and
+      Vandyke, David  and
+      Dethlefs, Nina  and
+      Inoue, Koji  and
+      Ekstedt, Erik  and
+      Ultes, Stefan",
+    booktitle = "Proceedings of the 21th Annual Meeting of the Special Interest Group on Discourse and Dialogue",
+    month = jul,
+    year = "2020",
+    address = "1st virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.sigdial-1.17/",
+    doi = "10.18653/v1/2020.sigdial-1.17",
+    pages = "132--135",
+    abstract = "Spoken interaction with a physical robot requires a dialogue system that is modular, multimodal, distributive, incremental and temporally aligned. In this demo paper, we make significant contributions towards fulfilling these requirements by expanding upon the ReTiCo incremental framework. We outline the incremental and multimodal modules and how their computation can be distributed. We demonstrate the power and flexibility of our robot-ready spoken dialogue system to be integrated with almost any robot."
+}
 ```
 
