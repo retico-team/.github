@@ -61,7 +61,7 @@ There are three options for loggers:
 
 1. The [Platform for Situated Intelligence](https://github.com/microsoft/psi) (psi) is a powerful framework for building complex AI systems, written in C#. Logging to psi is straight-forward using the `retico-zeromq` module.
 2. Full Logging of all incremental units can be done direclty with the [Articulab fork of retico](https://github.com/articulab/simple-retico-agent).
-3. Simple logging into a .csv file (in progress)
+3. [Simple logging into a json file](https://github.com/retico-team/retico-simplelogger)
 
 ## Research with Retico
 
