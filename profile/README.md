@@ -19,6 +19,7 @@ Some of the modules are available on pypi. Minimally, you need the `retico_core`
 - Game of NIM with Misty II Robot with RL [github](https://github.com/bjBSU/nim)
 - Robot "Tutor" with Misty II Robot [github](https://github.com/amanaser/Misty-Tutor)
 - Compare two Object Recgonition Models [github](https://github.com/porterrigby/HRI-Final-Project)
+- Cozmo on CoppelliaSim [github](https://github.com/retico-team/retico-coppelia/blob/main/example/coppelia_runner.py)
 
 
 ## Example Runner Script
