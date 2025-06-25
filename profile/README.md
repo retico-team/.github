@@ -8,6 +8,12 @@ Retico is based on the [Incremental Unit](https://journals.uic.edu/ojs/index.php
 
 Other incremental processing frameworks exist like [InproTK](https://github.com/timobaumann/inprotk) which is written in Java. 
 
+## Support
+
+The development of Retico is partially supported by the National Science Foundation
+
+![National Sciecne Foundation Logo](https://noirlab.edu/public/media/archives/logos/screen/logo245.jpg)
+
 
 ## Installation
 
