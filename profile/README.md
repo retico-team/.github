@@ -12,7 +12,7 @@ Other incremental processing frameworks exist like [InproTK](https://github.com/
 
 The development of Retico is partially supported by the National Science Foundation
 
-![National Sciecne Foundation Logo](https://noirlab.edu/public/media/archives/logos/screen/logo245.jpg)
+<img src="https://noirlab.edu/public/media/archives/logos/screen/logo245.jpg" width=60% height=60%>
 
 
 ## Installation
