@@ -8,16 +8,22 @@ Retico is based on the [Incremental Unit](https://journals.uic.edu/ojs/index.php
 
 Other incremental processing frameworks exist like [InproTK](https://github.com/timobaumann/inprotk) which is written in Java. 
 
+---
+
 ## Support
 
 The development of Retico is partially supported by the National Science Foundation
 
 <img src="https://noirlab.edu/public/media/archives/logos/screen/logo245.jpg" width=25% height=100%>
 
+---
+
 
 ## Installation
 
 Some of the modules are available on pypi. Minimally, you need the `retico_core` ([documentation](https://retico-core.readthedocs.io/en/latest/)). Individual modules have more information about their respective installation requirements. 
+
+---
 
 ## Example Projects
 
@@ -27,6 +33,8 @@ Some of the modules are available on pypi. Minimally, you need the `retico_core`
 - Robot "Tutor" with Misty II Robot [github](https://github.com/amanaser/Misty-Tutor)
 - Compare two Object Recgonition Models [github](https://github.com/porterrigby/HRI-Final-Project)
 - Cozmo on CoppelliaSim [github](https://github.com/retico-team/retico-coppelia/blob/main/example/coppelia_runner.py)
+
+---
 
 
 ## Example Runner Script
