@@ -21,6 +21,7 @@ Some of the modules are available on pypi. Minimally, you need the `retico_core`
 
 ## Example Projects
 
+- Emotion Tracking [github](https://github.com/zihaurpang/retico-emotion-tracking)
 - Simple Retico Agent [github](https://github.com/articulab/simple-retico-agent) | [documentation](https://simple-conversational-retico-agent.readthedocs.io/en/latest/index.html)
 - Game of NIM with Misty II Robot with RL [github](https://github.com/bjBSU/nim)
 - Robot "Tutor" with Misty II Robot [github](https://github.com/amanaser/Misty-Tutor)
@@ -32,7 +33,7 @@ Some of the modules are available on pypi. Minimally, you need the `retico_core`
 
 ```python
 from retico import *
-from retico.modules import *
+# imports for other modules
 
 
 def callback(update_msg):
@@ -60,6 +61,9 @@ input()
 stop(m1)
 ```
 
+---
+
+
 ## Monitoring and Logging
 
 Some individual modules have visualization tools. We are currently working on a system-level visualization tool.
@@ -69,6 +73,8 @@ There are three options for loggers:
 1. The [Platform for Situated Intelligence](https://github.com/microsoft/psi) (psi) is a powerful framework for building complex AI systems, written in C#. Logging to psi is straight-forward using the `retico-zeromq` module.
 2. Full Logging of all incremental units can be done direclty with the [Articulab fork of retico](https://github.com/articulab/simple-retico-agent).
 3. [Simple logging into a json file](https://github.com/retico-team/retico-simplelogger)
+
+---
 
 ## Research with Retico
 
@@ -107,6 +113,7 @@ Casey Kennington, Daniele Moro, Lucas Marchand, Jake Carns, and David McNeill. 2
 
 Simple Retico Agent [github repo](https://github.com/articulab/simple-retico-agent) | [documentation](https://simple-conversational-retico-agent.readthedocs.io/en/latest/index.html)
 
+---
 
 ## Citation
 
