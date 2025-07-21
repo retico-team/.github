@@ -25,7 +25,7 @@ Some of the modules are available on pypi. Minimally, you need the `retico_core`
 
 ---
 
-## Example Projects
+## Example Retico Systems
 
 - VQA [github](https://github.com/DavidC001/retico-VQA) (live VQA with multiple camera streams)
 - Emotion Tracking [github](https://github.com/zihaurpang/retico-emotion-tracking)
