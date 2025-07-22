@@ -30,6 +30,7 @@ Some of the modules are available on pypi. Minimally, you need the `retico_core`
 - VQA [github](https://github.com/DavidC001/retico-VQA) (live VQA with multiple camera streams)
 - Emotion Tracking [github](https://github.com/zihaurpang/retico-emotion-tracking)
 - Language Practice [github](https://github.com/mi-1000/retico-language-practice-network)
+- Argumentation Tracking [github](https://github.com/dexterwilliams96/retico-argumentation/tree/main)
 - Retico Agent-VQA [github](https://github.com/AnhBui1108/retico-agent-VQA) (a Retico agent that integrates [Huggingface Agents](https://huggingface.co/learn/agents-course/en/unit0/introduction) tools)
 - Simple Retico Agent [github](https://github.com/articulab/simple-retico-agent) | [documentation](https://simple-conversational-retico-agent.readthedocs.io/en/latest/index.html)
 - Game of NIM with Misty II Robot with RL [github](https://github.com/bjBSU/nim)
