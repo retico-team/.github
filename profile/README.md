@@ -23,7 +23,7 @@ The development of Retico is partially supported by the National Science Foundat
 
 Some of the modules are available on pypi. Minimally, you need the `retico_core` ([documentation](https://retico-core.readthedocs.io/en/latest/)). Individual modules have more information about their respective installation requirements. 
 
-Video tutorial of installing, starting your first system, and how modules and incremental units work. 
+Click below to watch a tutorial of installing Retico, builing your first system, and how modules and incremental units work. 
 
 [![Youtube link to Retico Intro Video](https://img.youtube.com/vi/M0ON1O5DSpw/0.jpg)](https://www.youtube.com/watch?v=M0ON1O5DSpw)
 
