@@ -129,7 +129,7 @@ Casey Kennington, Daniele Moro, Lucas Marchand, Jake Carns, and David McNeill. 2
 ### Articulab at Carnegie Mellon University & Almanach Team at Inria Paris
 
 
-Simple Retico Agent [github repo](https://github.com/articulab/simple-retico-agent) | [documentation](https://simple-conversational-retico-agent.readthedocs.io/en/latest/index.html)
+Simple Retico Agent [documentation](https://simple-conversational-retico-agent.readthedocs.io/en/latest/index.html)
 
 ---
 
