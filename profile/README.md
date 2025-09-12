@@ -36,7 +36,7 @@ Click below to watch a tutorial of installing Retico, builing your first system,
 - Language Practice [github](https://github.com/mi-1000/retico-language-practice-network)
 - Argumentation Tracking [github](https://github.com/dexterwilliams96/retico-argumentation/tree/main)
 - Retico Agent-VQA [github](https://github.com/AnhBui1108/retico-agent-VQA) (a Retico agent that integrates [Huggingface Agents](https://huggingface.co/learn/agents-course/en/unit0/introduction) tools)
-- Simple Retico Agent [github](https://github.com/articulab/simple-retico-agent) | [documentation](https://simple-conversational-retico-agent.readthedocs.io/en/latest/index.html)
+- Simple Retico Agent [documentation](https://simple-conversational-retico-agent.readthedocs.io/en/latest/index.html)
 - Game of NIM with Misty II Robot with RL [github](https://github.com/bjBSU/nim)
 - Robot "Tutor" with Misty II Robot [github](https://github.com/amanaser/Misty-Tutor)
 - Compare two Object Recgonition Models [github](https://github.com/porterrigby/HRI-Final-Project)
