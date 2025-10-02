@@ -151,31 +151,29 @@ Simple Retico Agent [documentation](https://simple-conversational-retico-agent.r
 ```
 If you use any of the multiomdal modules (vision, robots, etc.) please also cite this paper:
 ```
-@inproceedings{kennington-etal-2020-rrsds,
-    title = "rr{SDS}: Towards a Robot-ready Spoken Dialogue System",
-    author = "Kennington, Casey  and
-      Moro, Daniele  and
-      Marchand, Lucas  and
-      Carns, Jake  and
-      McNeill, David",
-    editor = "Pietquin, Olivier  and
-      Muresan, Smaranda  and
-      Chen, Vivian  and
-      Kennington, Casey  and
-      Vandyke, David  and
-      Dethlefs, Nina  and
-      Inoue, Koji  and
-      Ekstedt, Erik  and
-      Ultes, Stefan",
-    booktitle = "Proceedings of the 21th Annual Meeting of the Special Interest Group on Discourse and Dialogue",
-    month = jul,
-    year = "2020",
-    address = "1st virtual meeting",
+@inproceedings{manaseryan-etal-2025-rrsds,
+    title = "rr{SDS} 2.0: Incremental, Modular, Distributed, Multimodal Spoken Dialogue with Robotic Platforms",
+    author = "Manaseryan, Anna  and
+      Rigby, Porter  and
+      Matthews, Brooke  and
+      Henry, Catherine  and
+      Torres-Fonseca, Josue  and
+      Whetten, Ryan  and
+      Levandovsky, Enoch  and
+      Kennington, Casey",
+    editor = "B{\'e}chet, Fr{\'e}d{\'e}ric  and
+      Lef{\`e}vre, Fabrice  and
+      Asher, Nicholas  and
+      Kim, Seokhwan  and
+      Merlin, Teva",
+    booktitle = "Proceedings of the 26th Annual Meeting of the Special Interest Group on Discourse and Dialogue",
+    month = aug,
+    year = "2025",
+    address = "Avignon, France",
     publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2020.sigdial-1.17/",
-    doi = "10.18653/v1/2020.sigdial-1.17",
-    pages = "132--135",
-    abstract = "Spoken interaction with a physical robot requires a dialogue system that is modular, multimodal, distributive, incremental and temporally aligned. In this demo paper, we make significant contributions towards fulfilling these requirements by expanding upon the ReTiCo incremental framework. We outline the incremental and multimodal modules and how their computation can be distributed. We demonstrate the power and flexibility of our robot-ready spoken dialogue system to be integrated with almost any robot."
+    url = "https://aclanthology.org/2025.sigdial-1.51/",
+    pages = "637--640",
+    abstract = "This demo will showcase updates made to the `robot-ready spoken dialogue system' built on the Retico framework. Updates include new modules, logging and real-time monitoring tools, integrations with the Coppelia Sim virtual robot platfrom, integrations with a benchmark, improved documentation, and pypi environment usage."
 }
 ```
 
