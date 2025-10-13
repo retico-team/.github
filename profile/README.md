@@ -23,6 +23,10 @@ The development of Retico is partially supported by the National Science Foundat
 
 Some of the modules are available on pypi. Minimally, you need the `retico_core` ([documentation](https://retico-core.readthedocs.io/en/latest/)). Individual modules have more information about their respective installation requirements. 
 
+To get a quick system up and running, run the following in a new Python environmnt (3.8.8 or later):
+
+`pip install git+https://github.com/retico-team/retico-core git+https://github.com/retico-team/retico-googleasr git+https://github.com/retico-team/retico-huggingfacelm git+https://github.com/retico-team/retico-speechbraintts`
+
 Click below to watch a tutorial of installing Retico, builing your first system, and how modules and incremental units work. 
 
 (hold down on ctrl then click the link to open a new tab)
