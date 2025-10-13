@@ -25,9 +25,12 @@ Some of the modules are available on pypi. Minimally, you need the `retico_core`
 
 To get a quick system up and running, run the following in a new Python environmnt (3.8.8 or later):
 
-`pip install git+https://github.com/retico-team/retico-core git+https://github.com/retico-team/retico-googleasr git+https://github.com/retico-team/retico-huggingfacelm git+https://github.com/retico-team/retico-speechbraintts`
+```
+pip install git+https://github.com/retico-team/retico-core git+https://github.com/retico-team/retico-googleasr git+https://github.com/retico-team/retico-huggingfacelm git+https://github.com/retico-team/retico-speechbraintts
+```
+Then download the example [runner.py](https://github.com/retico-team/.github/blob/main/profile/runner.py) file and run `python runner.py`. This sample system is a simple chatbot that uses Retico modules, so ask it a simple question and it should give you an answer!
 
-Click below to watch a tutorial of installing Retico, builing your first system, and how modules and incremental units work. 
+For more details about installation and development, click below to watch a tutorial of installing Retico, builing your first system, and how modules and incremental units work. 
 
 (hold down on ctrl then click the link to open a new tab)
 
