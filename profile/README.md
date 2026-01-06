@@ -121,6 +121,14 @@ The SLIM Lab maintains many of the module repositories in `retico-team`.
 
 **Research that uses Retico**
 
+Baral, Rista, Bethany Grenz, and Casey Kennington. 2025. [Recognizing and Generating Novel Emotional Behaviors on Two Robotic Platforms](https://ieeexplore.ieee.org/document/11246523). In 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 21503–10. IEEE.
+
+Levandovsky, Enoch, Anna Manaseryan, and Casey Kennington. 2025. [Learning to Speak Like a Child: Reinforcing and Evaluating a Child-Level Generative Language Model](https://aclanthology.org/2025.sigdial-1.30/). In Proceedings of the 26th Annual Meeting of the Special Interest Group on Discourse and Dialogue, 370–82.
+
+Manaseryan, Anna, Porter Rigby, Brooke Matthews, Catherine Henry, Josue Torres-Fonseca, Ryan Whetten, Enoch Levandovsky, and Casey Kennington. 2025. [rrSDS 2.0: Incremental, Modular, Distributed, Multimodal Spoken Dialogue with Robotic Platforms.](https://aclanthology.org/2025.sigdial-1.51/) In Proceedings of the 26th Annual Meeting of the Special Interest Group on Discourse and Dialogue. Avignon, France: Association for Computational Linguistics.
+
+Kennington, Casey, and Catherine Henry. 2025. [Retico: A Framework for Robot/IVA-Ready Spoken Dialogue.](https://dl.acm.org/doi/10.1145/3765766.3765884) In Proceedings of the 13th International Conference on Human-Agent Interaction, 575–76. New York, NY, USA: ACM.
+
 Henry, C., & Kennington, C. (2024). [Unsupervised, Bottom-up Category Discovery for Symbol Grounding with a Curious Robot](https://aclanthology.org/2022.sigdial-1.14/). arXiv preprint arXiv:2404.03092.
 
 Whetten, R., Levandovsky, E., Imtiaz, M. T., & Kennington, C. (2023, August). [Evaluating Automatic Speech Recognition and Natural Language Understanding in an Incremental Setting](https://www.semdial.org/anthology/papers/Z/Z23/Z23-3012/). In Proceedings of the 27th Workshop on the Semantics and Pragmatics of Dialogue (SemDial). Maribor, Slovenia.
@@ -130,7 +138,6 @@ Josue Torres-Fonseca, Catherine Henry, and Casey Kennington. 2022. [Symbol and C
 Imtiaz, M.T., Kennington, C. (2022). [Incremental Unit Networks for Distributed, Symbolic Multimodal Processing and Representation](https://doi.org/10.1007/978-3-031-06018-2_24). In: Duffy, V.G. (eds) Digital Human Modeling and Applications in Health, Safety, Ergonomics and Risk Management. Health, Operations Management, and Design. HCII 2022. Lecture Notes in Computer Science, vol 13320. Springer, Cham.
 
 Casey Kennington, Daniele Moro, Lucas Marchand, Jake Carns, and David McNeill. 2020. [rrSDS: Towards a Robot-ready Spoken Dialogue System](https://aclanthology.org/2020.sigdial-1.17/). In Proceedings of the 21th Annual Meeting of the Special Interest Group on Discourse and Dialogue, pages 132–135, 1st virtual meeting. Association for Computational Linguistics.
-
 
 
 ### Articulab at Carnegie Mellon University & Almanach Team at Inria Paris
