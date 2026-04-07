@@ -15,7 +15,7 @@ Other incremental processing frameworks exist like [InproTK](https://github.com/
 The development of Retico is partially supported by the National Science Foundation, Technische Universität Berlin, and Boise State University
 
 
-<img src="https://noirlab.edu/public/media/archives/logos/screen/logo245.jpg" width=25% height=100%>&nbsp;<img src="https://scholarworks.boisestate.edu/assets/md5images/e835ec635d111b0d94938507d261d1da.png" width=25% height=100%>&nbsp;&nbsp;&nbsp;<img src="https://www.static.tu.berlin/_assets/2ff76cde2126808ef662c87f1945ad8e/Images/Logos/tu-berlin-logo-long-red.svg" width=25% height=100%>
+<img src="https://noirlab.edu/public/media/archives/logos/screen/logo245.jpg" width=25% height=100%>&nbsp;<img src="https://www.static.tu.berlin/_assets/2ff76cde2126808ef662c87f1945ad8e/Images/Logos/tu-berlin-logo-long-red.svg" width=25% height=100%>&nbsp;&nbsp;&nbsp;<img src="https://scholarworks.boisestate.edu/assets/md5images/e835ec635d111b0d94938507d261d1da.png" width=25% height=100%>
 
 ---
 
