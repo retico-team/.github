@@ -31,7 +31,9 @@ pip install git+https://github.com/retico-team/retico-core git+https://github.co
 ```
 Then download the example [runner.py](https://github.com/retico-team/.github/blob/main/profile/runner.py) file and run `python runner.py`. This sample system is a simple chatbot that uses Retico modules, so ask it a simple question and it should give you an answer!
 
-For more details about installation and development, click below to watch a tutorial of installing Retico, builing your first system, and how modules and incremental units work. 
+## Building your own Modules / System
+
+For more details about installation and development, click below to watch a tutorial of installing Retico, building your first system, and how modules and incremental units work. 
 
 (hold down on ctrl then click the link to open a new tab)
 
