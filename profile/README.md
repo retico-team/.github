@@ -39,7 +39,7 @@ The four videos linked below will help you get started using Retico.
 
 <table>
 <tr>
-<td valign="middle"> Introduction to Retico </td><td valign="middle"> Getting Started </td><td valign="middle"> Speaking with an LLM </td><td valign="middle"> Retico ZMQ </td>
+<td> Introduction to Retico </td><td> Getting Started </td><td> Speaking with an LLM </td><td> Retico ZMQ </td>
 </tr>
 <tr>
       <td><a href="https://www.youtube.com/watch?v=M0ON1O5DSpw">
