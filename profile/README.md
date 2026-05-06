@@ -31,9 +31,9 @@ Then download the example [runner.py](https://github.com/retico-team/.github/blo
 
 ## Tutorials
 
-The four videos linked below will help you get started using Retico. 
+The four videos linked below will help you get started understanding the theory behind Incremental Units, how we use Github repos for modules, how to make your own modules and systems, an example system, and how to distribute your modules across a network using ZeroMQ. 
 
-(hold down on ctrl then click the link to open a new tab)
+(hold down on ctrl then click one of the links below to open a new tab)
 
 <table>
 <tr>
