@@ -39,7 +39,8 @@ For more details about installation and development, click below to watch a tuto
 
 | Introduction to Retico | Getting Started | Speaking with an LLM | Retico ZMQ |
 |------------------------|-----------------|----------------------|------------|
-|<div align="left">
+
+<div align="left">
       <a href="https://www.youtube.com/watch?v=M0ON1O5DSpw">
          <img src="https://img.youtube.com/vi/M0ON1O5DSpw/0.jpg" style="width:20%;">
       </a>
