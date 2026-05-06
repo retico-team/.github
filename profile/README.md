@@ -37,12 +37,10 @@ For more details about installation and development, click below to watch a tuto
 
 (hold down on ctrl then click the link to open a new tab)
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%">
-<iframe src="[https://www.youtube.com/embed/3CM1_Ji6fJ8](https://www.youtube.com/watch?v=M0ON1O5DSpw)" 
-        title="Introduction to Retico" frameborder="0" allowfullscreen
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        style="position: absolute; width: 100%; height: 100%;">
-</iframe>
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=M0ON1O5DSpw">
+         <img src="https://img.youtube.com/vi/M0ON1O5DSpw/0.jpg" style="width:20%;">
+      </a>
 </div>
 
 [![Youtube link to Retico Intro Video](https://img.youtube.com/vi/M0ON1O5DSpw/0.jpg)](https://www.youtube.com/watch?v=M0ON1O5DSpw)
