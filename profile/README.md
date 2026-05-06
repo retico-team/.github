@@ -33,13 +33,11 @@ Then download the example [runner.py](https://github.com/retico-team/.github/blo
 
 ## Tutorials
 
-For more details about installation and development, click below to watch a tutorial of installing Retico, building your first system, and how modules and incremental units work. 
+The four videos linked below will help you get started using Retico. 
 
 (hold down on ctrl then click the link to open a new tab)
 
 | Introduction to Retico | Getting Started | Speaking with an LLM | Retico ZMQ |
-|------------------------|-----------------|----------------------|------------|
-
 <div align="left">
       <a href="https://www.youtube.com/watch?v=M0ON1O5DSpw">
          <img src="https://img.youtube.com/vi/M0ON1O5DSpw/0.jpg" style="width:20%;">
@@ -55,12 +53,6 @@ For more details about installation and development, click below to watch a tuto
       </a>
 </div>
 
-[![Youtube link to Retico Intro Video](https://img.youtube.com/vi/M0ON1O5DSpw/0.jpg)](https://www.youtube.com/watch?v=M0ON1O5DSpw)
-
-
-[![Youtube link to Retico Getting Started Video](https://img.youtube.com/vi/R_XjIYbsOAQ/0.jpg)](https://www.youtube.com/watch?v=R_XjIYbsOAQ)
-[![Youtube link to Retico Getting Started Video](https://img.youtube.com/vi/kWnS2WU5fHk/0.jpg)](https://www.youtube.com/watch?v=kWnS2WU5fHk)
-[![Youtube link to Retico Getting Started Video](https://img.youtube.com/vi/fC1RIt96dbs/0.jpg)](https://www.youtube.com/watch?v=fC1RIt96dbs)
 ---
 
 ## Example Retico Systems
