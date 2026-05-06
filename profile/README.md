@@ -1,6 +1,6 @@
 # Retico
 
-Retico is an open-source framework for building state-of-the-art incremental processing systems. This set of repositories contains [over 100 modules](https://github.com/retico-team/retico/blob/main/README.md) that you can use to build your own multimodal, incremental spoken dialogue systems.
+Retico is an open-source framework for building state-of-the-art incremental processing systems. This set of repositories contains [over 100 modules](https://github.com/retico-team/retico/blob/main/README.md) that you can use to build your own systems.
 
 "Incremental" means that the system processes inputs (e.g., speech recognition) at a fine-grained level, typically word-by-word. Large language models like ChatGPT allow a user to type a full input before submitting it to the chatbot, but when humans speak or write to each other, they produce and comprehend language incrementally, word-by-word. Not all practical systems need to function incrementally, but some would benefit from word-level processing. For example, a recent [NSF-sponsored workshop report](https://www.sciencedirect.com/science/article/pii/S0885230821000620?via%3Dihub) on spoken interaction with robots recommends that systems and modules should work in real-time to enable them to be more natural and responsive. 
 
@@ -14,11 +14,9 @@ Other incremental processing frameworks exist like [InproTK](https://github.com/
 
 The development of Retico is partially supported by the National Science Foundation, Technische Universität Berlin, and Boise State University
 
-
 <img src="https://noirlab.edu/public/media/archives/logos/screen/logo245.jpg" width=25% height=100%>&nbsp;<img src="https://www.static.tu.berlin/_assets/2ff76cde2126808ef662c87f1945ad8e/Images/Logos/tu-berlin-logo-long-red.svg" width=25% height=100%>&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Boise_State_University_logo.png/960px-Boise_State_University_logo.png" width=25% height=100%>
 
 ---
-
 
 ## Installation
 
