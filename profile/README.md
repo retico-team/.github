@@ -43,19 +43,16 @@ For more details about installation and development, click below to watch a tuto
       <a href="https://www.youtube.com/watch?v=M0ON1O5DSpw">
          <img src="https://img.youtube.com/vi/M0ON1O5DSpw/0.jpg" style="width:20%;">
       </a>
-</div>|<div align="left">
-      <a href="https://www.youtube.com/watch?v=R_XjIYbsOAQ">
+     <a href="https://www.youtube.com/watch?v=R_XjIYbsOAQ">
          <img src="https://img.youtube.com/vi/R_XjIYbsOAQ/0.jpg" style="width:20%;">
       </a>
-</div>|<div align="left">
       <a href="https://www.youtube.com/watch?v=kWnS2WU5fHk">
          <img src="https://img.youtube.com/vi/kWnS2WU5fHk/0.jpg" style="width:20%;">
       </a>
-</div>|<div align="left">
-      <a href="https://www.youtube.com/watch?v=fC1RIt96dbs">
+       <a href="https://www.youtube.com/watch?v=fC1RIt96dbs">
          <img src="https://img.youtube.com/vi/fC1RIt96dbs/0.jpg" style="width:20%;">
       </a>
-</div>|
+</div>
 
 [![Youtube link to Retico Intro Video](https://img.youtube.com/vi/M0ON1O5DSpw/0.jpg)](https://www.youtube.com/watch?v=M0ON1O5DSpw)
 
