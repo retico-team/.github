@@ -133,12 +133,13 @@ Thilo Michael. 2020. Retico: [An incremental framework for spoken dialogue syste
 Thilo Michael and Sebastian Möller. 2020. [Simulating Turn-Taking in Conversations with Delayed Transmission](https://aclanthology.org/2020.sigdial-1.20/). In Proceedings of the 21th Annual Meeting of the Special Interest Group on Discourse and Dialogue, pages 157–161, 1st virtual meeting. Association for Computational Linguistics.
 
 
-
 ### Speech, Language and Interactive Machines Lab at Boise State University
 
 The SLIM Lab maintains many of the module repositories in `retico-team`.
 
 **Research that uses Retico**
+
+Manaseryan, Anna, and Casey Kennington. 2026. “Adaptive Emotion Management in Human-Robot Dialogue Using Online Group Relative Policy Optimization.” In Proceedings of the 27th Annual Meeting of the Special Interest Group on Discourse and Dialogue, 585–96.
 
 Baral, Rista, Bethany Grenz, and Casey Kennington. 2025. [Recognizing and Generating Novel Emotional Behaviors on Two Robotic Platforms](https://ieeexplore.ieee.org/document/11246523). In 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 21503–10. IEEE.
 
