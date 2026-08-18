@@ -20,7 +20,7 @@ The development of Retico is partially supported by the National Science Foundat
 
 ## Installation
 
-Some of the modules are available on pypi. Minimally, you need the `retico_core` ([documentation](https://retico-core.readthedocs.io/en/latest/)). Individual modules have more information about their respective installation requirements. 
+Some of the modules are available on pypi. Minimally, you need the `retico_core` ([documentation](https://retico-core.readthedocs.io/en/latest/)). Individual module repositories have more information about their respective installation requirements. 
 
 To get a quick system up and running, run the following in a new Python environmnt (tested with Python 3.9 - 3.13):
 
