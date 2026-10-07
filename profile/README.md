@@ -139,7 +139,9 @@ The SLIM Lab maintains many of the module repositories in `retico-team`.
 
 **Research that uses Retico**
 
-Manaseryan, Anna, and Casey Kennington. 2026. “Adaptive Emotion Management in Human-Robot Dialogue Using Online Group Relative Policy Optimization.” In Proceedings of the 27th Annual Meeting of the Special Interest Group on Discourse and Dialogue, 585–96.
+Anna Manaseryan, Anh Bui, Casey Kennington. Looking for Objects and Looking for Help: Robot Gaze Elicits Human Cooperation. In Proceedings of the MINT Workshop, EMLNP 2026.
+
+Manaseryan, Anna, and Casey Kennington. 2026. [Adaptive Emotion Management in Human-Robot Dialogue Using Online Group Relative Policy Optimization](https://aclanthology.org/2026.sigdial-1.41/). In Proceedings of the 27th Annual Meeting of the Special Interest Group on Discourse and Dialogue, 585–96.
 
 Baral, Rista, Bethany Grenz, and Casey Kennington. 2025. [Recognizing and Generating Novel Emotional Behaviors on Two Robotic Platforms](https://ieeexplore.ieee.org/document/11246523). In 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 21503–10. IEEE.
 
@@ -159,9 +161,15 @@ Imtiaz, M.T., Kennington, C. (2022). [Incremental Unit Networks for Distributed,
 
 Casey Kennington, Daniele Moro, Lucas Marchand, Jake Carns, and David McNeill. 2020. [rrSDS: Towards a Robot-ready Spoken Dialogue System](https://aclanthology.org/2020.sigdial-1.17/). In Proceedings of the 21th Annual Meeting of the Special Interest Group on Discourse and Dialogue, pages 132–135, 1st virtual meeting. Association for Computational Linguistics.
 
+### Peerbots
+
+Saad Elberleidy, Ross Mead, Casey Kennington. Vizij × Retico: A Reference Implementation for Driving Expressive Rendered Faces from Incremental Human-Robot Dialogue. In Proceedings of the Human-robot Dialogue Workshop, IROS 2026.
+
+### Graduate School of Informatics, Kyoto University
+
+Zi Haur Pang, Casey Kennington, and Tatsuya Kawahara. [Closing the Affective Loop: Multimodal Speaker–Listener Emotion-Dynamics-Aware Empathetic Social Robots](https://arxiv.org/abs/2608.16686). In Proceedings of 2026 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC).
 
 ### Articulab at Carnegie Mellon University & Almanach Team at Inria Paris
-
 
 Simple Retico Agent [documentation](https://simple-conversational-retico-agent.readthedocs.io/en/latest/index.html)
 
