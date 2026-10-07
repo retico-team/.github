@@ -124,8 +124,6 @@ There are three options for loggers:
 
 ### The Quality and Usability Lab at Technische Universität Berlin
 
-**Research that uses Retico**
-
 Michael, T. (2023). [Simulating Conversations for the Prediction of Speech Quality](https://depositonce.tu-berlin.de/items/bd35be30-6add-4712-b763-d31b44f84284). Springer International Publishing AG.
 
 Thilo Michael. 2020. Retico: [An incremental framework for spoken dialogue systems](https://aclanthology.org/2020.sigdial-1.6/). In Proceedings of the 21th Annual Meeting of the Special Interest Group on Discourse and Dialogue, pages 49–52, 1st virtual meeting. Association for Computational Linguistics.
@@ -136,8 +134,6 @@ Thilo Michael and Sebastian Möller. 2020. [Simulating Turn-Taking in Conversati
 ### Speech, Language and Interactive Machines Lab at Boise State University
 
 The SLIM Lab maintains many of the module repositories in `retico-team`.
-
-**Research that uses Retico**
 
 Anna Manaseryan, Anh Bui, Casey Kennington. Looking for Objects and Looking for Help: Robot Gaze Elicits Human Cooperation. In Proceedings of the MINT Workshop, EMLNP 2026.
 
