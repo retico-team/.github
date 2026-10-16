@@ -21,8 +21,8 @@ The development of Retico is partially supported by the National Science Foundat
 ## Supported Robot Platforms
 
 <img src="https://static.wixstatic.com/media/d181e9_5123443b817c45cab5435a161b3db2b4~mv2.png/v1/crop/x_603,y_0,w_5122,h_4480/fill/w_690,h_559,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/misty-wave2transparent.png" width=25% height=100%>&nbsp;
-<img src="https://anki.bot/cdn/shop/products/Cozmo2.0-500x405_5.jpg?v=1658947111" width=25% height=100%>&nbsp;
-<img src="https://anki.bot/cdn/shop/products/Vector_Product_LookingRight_1000px.jpg" width=25% height=100%>&nbsp;
+<img src="https://anki.bot/cdn/shop/products/Cozmo2.0-500x405_5.jpg?v=1658947111" width=25% height=50%>&nbsp;
+<img src="https://anki.bot/cdn/shop/products/Vector_Product_LookingRight_1000px.jpg" width=25% height=50%>&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRggJ8aGEBi1lUquEd8dJTFImgeAlPmVDEkCYxWuaSl6g" width=25% height=100%>&nbsp;
 
 
