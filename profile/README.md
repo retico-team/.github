@@ -170,7 +170,7 @@ Casey Kennington, Daniele Moro, Lucas Marchand, Jake Carns, and David McNeill. 2
 
 ### Peerbots
 
-Saad Elberleidy, Ross Mead, Casey Kennington. Vizij × Retico: A Reference Implementation for Driving Expressive Rendered Faces from Incremental Human-Robot Dialogue. In Proceedings of the Human-robot Dialogue Workshop, IROS 2026.
+Saad Elberleidy, Ross Mead, Casey Kennington. [Vizij × Retico: A Reference Implementation for Driving Expressive Rendered Faces from Incremental Human-Robot Dialogue](https://openreview.net/pdf?id=Wo2n3RaZ8c). In Proceedings of the Human-robot Dialogue Workshop, IROS 2026.
 
 ### Graduate School of Informatics, Kyoto University
 
